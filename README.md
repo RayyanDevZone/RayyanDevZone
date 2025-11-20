@@ -37,9 +37,11 @@
 
 | Project                      | Description                                                                                                                                   | Links                                                          |
 | :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
-| **Job Trend Analyzer** | A job market visualization tool that fetches and displays the distribution of active job categories.                                          | [Check Out Here](https://github.com/RayyanDevZone/job-trend-analyzer)            |
-| **Amazon Sales EDA**   | Uncovered valuable hidden insights and trends while rigorously identifying and treating the dataset's critical, performance-skewing outliers. |  [Check Out Here](https://github.com/RayyanDevZone/Eda-Amazon-Sales)              |
-| **Invoice Generator**     | A seamless solution that turns your painful, error-prone billing process into precise, professional, one-click invoice generation.| [Check Out Here](https://github.com/RayyanDevZone/invoice) |
+| **Job Trend Analyzer** | A job market visualization tool that fetches and displays the distribution of active job categories.                                          | [Check Out](https://github.com/RayyanDevZone/job-trend-analyzer)            |
+| **Uber Trip Analytics** | Data-driven dashboard revealing ride patterns, performance metrics, and actionable insights.                                   | [Check Out](https://github.com/RayyanDevZone/Uber-Analytics-Dashboard)            |
+| **Amazon Sales EDA**   | Uncovered valuable hidden insights and trends while rigorously identifying and treating the dataset's critical, performance-skewing outliers. |  [Check Out](https://github.com/RayyanDevZone/Eda-Amazon-Sales)              |
+| **Invoice Generator**     | A seamless solution that turns your painful, error-prone billing process into precise, professional, one-click invoice generation.| [Check Out](https://github.com/RayyanDevZone/invoice) |
+
 ---
 
 ## Tech stack
